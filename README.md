@@ -11,7 +11,7 @@
 
 - 💬 Ask me about: **Flutter, Dart, and AI Agents.**
 
-- 💻 Tech Environment: **Mac Mini (Silicon) & Ubuntu.**
+- 💻 Tech Environment: **Mac Mini (Apple-Silicon) & Ubuntu.**
 
 - ⚡ Fun fact: **I write so much code, my keyboard started demanding royalties!**
 
