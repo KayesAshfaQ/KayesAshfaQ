@@ -35,7 +35,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayesashfaq&" alt="kayesashfaq" /></p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">💰 Support:</h3>
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/asfak) 
 
